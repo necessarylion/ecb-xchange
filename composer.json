@@ -1,0 +1,16 @@
+{
+    "name": "necessarylion/ecb-xchange",
+    "description": "European Central Bank Exchange Rate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Necessarylion\\ECB\\": "src/"}
+    },
+    "require": {}
+}
